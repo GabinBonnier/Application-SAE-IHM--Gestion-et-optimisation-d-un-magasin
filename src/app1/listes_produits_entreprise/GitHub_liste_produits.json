@@ -1,0 +1,50 @@
+{
+    "Légumes": [
+        {
+            "nom": "Ail",
+            "coordonnées": [
+                19,
+                13
+            ]
+        }
+    ],
+    "Poissons": [
+        {
+            "nom": "Bigorneaux",
+            "coordonnées": [
+                4,
+                5
+            ]
+        }
+    ],
+    "Épicerie": [
+        {
+            "nom": "Blé dur",
+            "coordonnées": [
+                17,
+                48
+            ]
+        },
+        {
+            "nom": "Cannelle",
+            "coordonnées": [
+                16,
+                47
+            ]
+        },
+        {
+            "nom": "Cornichons",
+            "coordonnées": [
+                13,
+                47
+            ]
+        },
+        {
+            "nom": "Farine",
+            "coordonnées": [
+                25,
+                48
+            ]
+        }
+    ]
+}
